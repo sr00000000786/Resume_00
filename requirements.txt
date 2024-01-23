@@ -3,3 +3,11 @@ wordcloud
 seaborn==0.11.2
 networkx
 squarify
+scikit-learn
+streamlit
+pandas
+numpy
+matplotlib
+docx2txt
+textract
+plotly
